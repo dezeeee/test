@@ -1,0 +1,51 @@
+{
+  "name": "Marko",
+  "description": "Previously known as Origin #22",
+  "attributes": [
+    {
+      "trait_type": "Character",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yelow"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "None"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Bandana"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Cyclops"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mask"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jacket"
+    }
+  ],
+  "seller_fee_basis_points": 500,
+  "image": "https://raw.githubusercontent.com/dezeeee/test/main/115.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/dezeeee/test/main/115.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "JDU4y1nrUJ8L4kMCnWUsG6pD7UFgCQRb7iGn4e1qZd1e",
+        "share": 100,
+        "verified": true
+      }
+    ]
+  }
+}

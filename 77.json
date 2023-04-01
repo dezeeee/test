@@ -1,0 +1,51 @@
+{
+  "name": "Kiara",
+  "description": "Previously known as Origin #77",
+  "attributes": [
+    {
+      "trait_type": "Character",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Pink Bob"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Bandana"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Track Suit"
+    }
+  ],
+  "seller_fee_basis_points": 500,
+  "image": "https://raw.githubusercontent.com/dezeeee/test/main/15.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/dezeeee/test/main/15.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "JDU4y1nrUJ8L4kMCnWUsG6pD7UFgCQRb7iGn4e1qZd1e",
+        "share": 100,
+        "verified": true
+      }
+    ]
+  }
+}
