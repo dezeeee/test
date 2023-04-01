@@ -1,0 +1,51 @@
+{
+  "name": "Xavier",
+  "description": "Previously known as Origin #62",
+  "attributes": [
+    {
+      "trait_type": "Character",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Snowy"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "None"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cowboy Jacket"
+    }
+  ],
+  "seller_fee_basis_points": 500,
+  "image": "https://bafkreid6rnoqispuckpipt2lfl55a52yifofpucy4i6ymtnprfl6b4qlsi.ipfs.nftstorage.link/?width=559&height=559",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://bafkreid6rnoqispuckpipt2lfl55a52yifofpucy4i6ymtnprfl6b4qlsi.ipfs.nftstorage.link/?width=559&height=559",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "JDU4y1nrUJ8L4kMCnWUsG6pD7UFgCQRb7iGn4e1qZd1e",
+        "share": 100,
+        "verified": true
+      }
+    ]
+  }
+}

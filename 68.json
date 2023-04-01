@@ -1,0 +1,51 @@
+{
+  "name": "Paul",
+  "description": "Previously known as Origin #68",
+  "attributes": [
+    {
+      "trait_type": "Character",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Bandana"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mask"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jacket"
+    }
+  ],
+  "seller_fee_basis_points": 500,
+  "image": "https://bafkreidkk7fnonytoa6cwwifm2tgvmzgm4qncesqahu7saz2jkfyahlcyq.ipfs.nftstorage.link/?width=559&height=559",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://bafkreidkk7fnonytoa6cwwifm2tgvmzgm4qncesqahu7saz2jkfyahlcyq.ipfs.nftstorage.link/?width=559&height=559",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "JDU4y1nrUJ8L4kMCnWUsG6pD7UFgCQRb7iGn4e1qZd1e",
+        "share": 100,
+        "verified": true
+      }
+    ]
+  }
+}

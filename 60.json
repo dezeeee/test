@@ -1,0 +1,51 @@
+{
+  "name": "Santi",
+  "description": "Previously known as Origin #60",
+  "attributes": [
+    {
+      "trait_type": "Character",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "None"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Roach"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mask"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Black Shirt"
+    }
+  ],
+  "seller_fee_basis_points": 500,
+  "image": "https://bafkreicotgckm3swdfqvvqcrc64h6wkfr4wak4iomueyuckptid2zkvthy.ipfs.nftstorage.link/?width=559&height=559",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://bafkreicotgckm3swdfqvvqcrc64h6wkfr4wak4iomueyuckptid2zkvthy.ipfs.nftstorage.link/?width=559&height=559",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "JDU4y1nrUJ8L4kMCnWUsG6pD7UFgCQRb7iGn4e1qZd1e",
+        "share": 100,
+        "verified": true
+      }
+    ]
+  }
+}

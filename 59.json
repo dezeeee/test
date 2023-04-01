@@ -1,0 +1,51 @@
+{
+  "name": "Silverio",
+  "description": "Previously known as Origin #59",
+  "attributes": [
+    {
+      "trait_type": "Character",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "None"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Space Helmet"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Space Suit"
+    }
+  ],
+  "seller_fee_basis_points": 500,
+  "image": "https://bafkreie4pnthlqn43gjtrn3nxthczmr3of75dkb3szmcsdwe334g3bohwa.ipfs.nftstorage.link/?width=559&height=559",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://bafkreie4pnthlqn43gjtrn3nxthczmr3of75dkb3szmcsdwe334g3bohwa.ipfs.nftstorage.link/?width=559&height=559",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "JDU4y1nrUJ8L4kMCnWUsG6pD7UFgCQRb7iGn4e1qZd1e",
+        "share": 100,
+        "verified": true
+      }
+    ]
+  }
+}
