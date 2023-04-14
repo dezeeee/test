@@ -1,6 +1,6 @@
 {
-  "name": "Origin #8",
-  "description": "???",
+  "name": "Dopamine",
+  "description": "Previously known as Origin #8",
   "seller_fee_basis_points": 300,
   "image": "https://shdw-drive.genesysgo.net/BSK4CGA8DzQDwCWCYkNQEtixeJffG45VPKR8dJvjuKn7/00000_3lglwNKw1_g9qzkm4tE83.gif",
   "properties": {
@@ -17,5 +17,11 @@
         "verified": true
       }
     ]
-  }
+  },
+  "attributes": [
+    {
+      "trait_type": "Character",
+      "value": "1/1"
+    }
+  ]
 }
