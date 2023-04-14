@@ -1,0 +1,27 @@
+{
+    "name": "Gudi",
+    "description": "Previously known as Origin #52",
+    "seller_fee_basis_points": 300,
+    "image": "https://shdw-drive.genesysgo.net/BSK4CGA8DzQDwCWCYkNQEtixeJffG45VPKR8dJvjuKn7/00000_PyRpOgjAYrlJmIBiTUTHs.gif",
+    "properties": {
+      "files": [
+        {
+          "uri": "https://shdw-drive.genesysgo.net/BSK4CGA8DzQDwCWCYkNQEtixeJffG45VPKR8dJvjuKn7/00000_PyRpOgjAYrlJmIBiTUTHs.gif",
+          "type": "image/gif"
+        }
+      ],
+      "creators": [
+        {
+          "address": "JDU4y1nrUJ8L4kMCnWUsG6pD7UFgCQRb7iGn4e1qZd1e",
+          "share": 100,
+          "verified": true
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Character",
+        "value": "1/1"
+      }
+    ]
+  }
